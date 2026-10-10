@@ -22,7 +22,6 @@ The supplementary materials cover component ablations, qualitative comparisons, 
 
 | Experiment                         | Description                                                                       |
 | ---------------------------------- | --------------------------------------------------------------------------------- |
-| [CARAFE Ablation](CARAFE_Ablation/) | Performance analysis of CARAFE and DPBS configurations. |
 | [Additional Qualitative Comparisons](Additional_Qualitative_Comparisons/) | Qualitative comparison on additional infrared test scenes. |
 | [Loss Function Ablation](Loss_Function_Ablation/) | Evaluation of different loss functions and combinations. |
 | [Background Clutter Analysis](Background_Clutter_Analysis/) | Background classification, distribution statistics, and module response analysis. |
