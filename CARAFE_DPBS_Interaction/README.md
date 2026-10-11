@@ -45,7 +45,7 @@ DPBS models and suppresses smooth background trends before upsampling, thereby r
 
 [1] J. Wang, K. Chen, R. Xu, Z. Liu, C. C. Loy, and D. Lin, “[CARAFE: Content-Aware ReAssembly of FEatures](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_CARAFE_Content-Aware_ReAssembly_of_FEatures_ICCV_2019_paper.html),” in *Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)*, 2019, pp. 3007–3016.
 
-[2] H. Lu, W. Liu, H. Fu, and Z. Cao, “[FADE: Fusing the Assets of Decoder and Encoder for Task-Agnostic Upsampling](https://doi.org/10.1007/978-3-031-19812-0_14),” in *Proc. Eur. Conf. Comput. Vis. (ECCV)*, 2022, pp. 214–230, doi: 10.1007/978-3-031-19812-0_14.
+[2] H. Lu, W. Liu, H. Fu, and Z. Cao, “[FADE: Fusing the Assets of Decoder and Encoder for Task-Agnostic Upsampling](https://doi.org/10.1007/978-3-031-19812-0_14),” in *Proc. Eur. Conf. Comput. Vis. (ECCV)*, 2022, pp. 231–247, doi: 10.1007/978-3-031-19812-0_14.
 
 [3] H. Lu, W. Liu, Z. Ye, H. Fu, Y. Liu, and Z. Cao, “[SAPA: Similarity-Aware Point Affiliation for Feature Upsampling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/83ccb398f3ce9c4d137011f36a03c7d4-Abstract-Conference.html),” in *Advances in Neural Information Processing Systems*, vol. 35, pp. 20889–20901, 2022, doi: 10.52202/068431-1519.
 
